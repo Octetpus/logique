@@ -1,5 +1,5 @@
 # Compte rendu : TP Logique
-## TP 1 : la modélisation via la logique
+## La modélisation via la logique
 ### Exercice 1
 Prédicat : convient_physiquement. X convient à Y si la taille la couleur des cheveux et l'âge de X sont les critères recherchés par Y.
 
@@ -23,8 +23,8 @@ couples(X, Y):-
 ```
 ### Exercice 2
 
-## TP 2 : récursivité et listes
-## TP 3 : coder un 2-SAT solver 
+## Récursivité et listes
+## Coder un 2-SAT solver 
 
 
 
